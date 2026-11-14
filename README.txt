@@ -46,3 +46,6 @@ Version 14 : lors de l’ajout d’une entrée complémentaire, possibilité fac
 VERSION 17
 - Les affectations à l’épargne des entrées supplémentaires peuvent être modifiées ou complétées depuis l’accueil et l’onglet Épargne.
 - À la clôture, le solde positif peut être réparti entre épargne, plusieurs remboursements de crédits et montant laissé disponible.
+
+
+Version 18 : le bouton « Ajouter à l’épargne » reste visible dans l’onglet Épargne. Il propose le salaire tant qu’aucune contribution salariale n’a été enregistrée pour le mois, ainsi que les nouvelles entrées de l’accueil encore disponibles. Si aucune provenance n’est disponible, le bouton explique les conditions à remplir.

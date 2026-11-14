@@ -49,3 +49,5 @@ VERSION 17
 
 
 Version 18 : le bouton « Ajouter à l’épargne » reste visible dans l’onglet Épargne. Il propose le salaire tant qu’aucune contribution salariale n’a été enregistrée pour le mois, ainsi que les nouvelles entrées de l’accueil encore disponibles. Si aucune provenance n’est disponible, le bouton explique les conditions à remplir.
+
+Version 19 : le montant maximal proposé pour l’épargne tient compte du solde réellement disponible après les dépenses fixes, les dépenses mobiles et les remboursements de crédits du mois. Pour le salaire, le plafond est également limité au salaire restant après ces dépenses. Les modifications d’une affectation respectent le même plafond.
